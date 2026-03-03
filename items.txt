@@ -1,0 +1,6 @@
+Potion,Consumable,50
+Sword,Weapon,120
+Armor,Defense,200
+Bow,Weapon,90
+Shield,Defense,150
+Elixir,Consumable,75
